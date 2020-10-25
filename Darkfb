@@ -1,0 +1,39 @@
+# script
+ Darkfb
+
+<h1 align="center">Dark-FB-Gold</h1>
+<p align="center">
+      «bendoyo-Darkfb is Specially Design For Termux User»
+</p>
+
+## About Bendoyo-darkfb
+
+
+
+### Bendoyo-Darkfb is available for
+
+* Termux
+
+### Installation and usage guide
+$ apt update
+
+$ apt upgrade
+
+$ pkg install python2
+
+$ pkg install git
+
+$ pip2 install requests
+
+$ pip2 install mechnize
+
+$ git clone https://github.com/Az/Bendoyo-Darkfb
+
+$ ls
+
+$ cd Bendoyo-Darkfb
+
+$ ls
+
+$ python2 Bendoyo-darkfb.py
+
